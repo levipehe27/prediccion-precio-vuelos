@@ -1,9 +1,6 @@
 # prediccion-precio-vuelos
 Modelos de regresión lineal para predicción de precios de vuelos
 
-
-# Predicción del precio de vuelos 
-
 ##  Descripción
 
 Este proyecto desarrolla modelos de regresión lineal para predecir el precio de vuelos a partir de variables como clase, duración, número de escalas, entre otras.
